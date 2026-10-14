@@ -4,6 +4,8 @@
 
 # REA: Reverse Engineer Anything
 
+> Personal fork of [morluto/rea](https://github.com/morluto/rea). Project description, releases and upstream documentation below refer to REA itself.
+
 ### One MCP for reverse engineering across binaries, applications, and runtime behavior.
 
 **See a feature you like. Understand how it works, down to the binary level.**
